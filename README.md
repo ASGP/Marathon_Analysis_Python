@@ -2,8 +2,7 @@
 ## Overview
 This project analyzes ultra-marathon data from a dataset spanning 2010 to 2022. Using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and SciPy, the notebook provides insights into trends and patterns in ultra-marathon events, focusing on aspects like gender distribution, race distances, and athlete performance.
 
-## Key Features
-Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 
 ## Initial exploration of the dataset using methods like .head(), .shape, and .describe() to understand its structure and key statistics.
 Visualizations:
