@@ -46,10 +46,14 @@ Some visualizations generated in this project include:
 
 * Gender Distribution:
 A pie chart visualizing male and female athlete proportions.
+
+
 ![image](https://github.com/user-attachments/assets/d2b61a85-59f0-4ecc-a243-a16d0012734a)
 
 * Race Distance Distribution:
 Histograms showing the frequency of races for 50mi and 50km.
+
+
 ![image](https://github.com/user-attachments/assets/17f2cd3c-5d77-4fb4-975e-041279ff13c1)
 
 * Athlete Speed Comparison:
@@ -57,9 +61,13 @@ KDE plots comparing speeds across different race categories
 ![image](https://github.com/user-attachments/assets/272cbb60-6795-4b08-8816-6fa3cc556c70)
 
 * Gender vs Average Speed
+
+  
   ![image](https://github.com/user-attachments/assets/06368523-f1e2-4942-9058-2b47429be5d9)
 
 * Athletes Outside of USA
+
+  
   ![image](https://github.com/user-attachments/assets/2d301b9b-c452-440a-8d76-f7bc2e378282)
 
 
